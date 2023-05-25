@@ -1,8 +1,9 @@
-// stdafx.cpp : Quelldatei, die nur die Standard-Includes einbindet.
-// Win32Project1.pch ist der vorkompilierte Header.
-// stdafx.obj enthält die vorkompilierten Typinformationen.
+// stdafx.cpp : standard file wich only include standard inclusions
+// Win32Project1.pch precompiled header
+// stdafx.obj contained precompiled informations type
 
 #include "stdafx.h"
 
-// TODO: Auf zusätzliche Header verweisen, die in STDAFX.H
-// und nicht in dieser Datei erforderlich sind.
+// TODO : refer to additionnal headers found in STDAFX.h
+// is not required in this file
+

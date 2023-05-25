@@ -1,8 +1,8 @@
 #pragma once
 
-// Durch Einbeziehen von"SDKDDKVer.h" wird die höchste verfügbare Windows-Plattform definiert.
+// Inclusion of "SDKDDKVer.h" select the most elevated Windows version
 
-// Wenn Sie die Anwendung für eine frühere Windows-Plattform erstellen möchten, schließen Sie "WinSDKVer.h" ein, und
-// legen Sie das _WIN32_WINNT-Makro auf die zu unterstützende Plattform fest, bevor Sie "SDKDDKVer.h" einschließen.
+// If you want to create the app on an older Windows platform, include "WinSDKVer.h" and
+// Define the macro _WIN32_WINNT on the platform to support before include "SDKDDKVer.h"
 
 #include <SDKDDKVer.h>
