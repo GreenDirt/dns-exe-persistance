@@ -1,32 +1,34 @@
-﻿========================================================================
-    DYNAMIC LINK LIBRARY: Win32Project1-Projektübersicht
-========================================================================
+================================================== ======================
+    DYNAMIC LINK LIBRARY: Win32Project1 project overview
+================================================== ======================
 
-Diese Win32Project1-DLL wurde vom Anwendungs-Assistenten für Sie erstellt.
+This Win32Project1 DLL was created for you by AppWizard.
 
-Diese Datei bietet eine Übersicht über den Inhalt der einzelnen Dateien, aus
-denen Ihre Win32Project1-Anwendung besteht.
+This file provides an overview of the content of each file
+that your Win32Project1 application consists of.
 
 
 Win32Project1.vcxproj
-    Dies ist die Hauptprojektdatei für VC++-Projekte, die mit dem Anwendungs-Assistenten generiert werden. Sie enthält Informationen über die Version von Visual C++, mit der die Datei generiert wurde, sowie über die Plattformen, Konfigurationen und Projektfunktionen, die im Anwendungs-Assistenten ausgewählt wurden.
+    This is the main project file for VC++ projects generated with AppWizard. It contains information about the version of Visual C++ that generated the file, as well as the platforms, configurations, and project features selected in AppWizard.
 
 Win32Project1.vcxproj.filters
-    Dies ist die Filterdatei für VC++-Projekte, die mithilfe eines Anwendungs-Assistenten erstellt werden. Sie enthält Informationen über die Zuordnung zwischen den Dateien im Projekt und den Filtern. Diese Zuordnung wird in der IDE zur Darstellung der Gruppierung von Dateien mit ähnlichen Erweiterungen unter einem bestimmten Knoten verwendet (z. B. sind CPP-Dateien dem Filter "Quelldateien" zugeordnet).
+    This is the filter file for VC++ projects created using an AppWizard. It contains information about the association between the files in the project and the filters. This mapping is used in the IDE to represent the grouping of files with similar extensions under a given node (e.g. CPP files are mapped to the "Source Files" filter).
 
 Win32Project1.cpp
-    Dies ist die Hauptquelldatei der DLL.
+    This is the main source file of the DLL.
 
-/////////////////////////////////////////////////////////////////////////////
-Andere Standarddateien:
+//////////////////////////////////////////////// ///////////////////////////
+Other standard files:
 
 StdAfx.h, StdAfx.cpp
-    Mit diesen Dateien werden eine vorkompilierte Headerdatei (PCH) mit dem Namen Win32Project1.pch und eine vorkompilierte Typendatei mit dem Namen StdAfx.obj erstellt.
+    These files create a precompiled header (PCH) file named Win32Project1.pch and a precompiled types file named StdAfx.obj.
 
-/////////////////////////////////////////////////////////////////////////////
-Weitere Hinweise:
+//////////////////////////////////////////////// ///////////////////////////
+More information:
 
-Der Anwendungs-Assistent weist Sie mit "TODO:"-Kommentaren auf Teile des
-Quellcodes hin, die Sie ergänzen oder anpassen sollten.
+The AppWizard uses "TODO:" comments to point you to parts of the
+source codes that you should supplement or adapt.
 
-/////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////// ///////////////////////////
+
+Traduction by [GreenDirt](https://github.com/GreenDirt/)
